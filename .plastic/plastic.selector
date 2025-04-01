@@ -1,0 +1,4 @@
+repository "AnyangcheonPirates@AnyangcheonPirates@cloud"
+  path "/"
+    br "/main"
+    co "/main"
